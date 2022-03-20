@@ -1,7 +1,7 @@
 ### Backend Engineer 
 Hello, I'm a backend programmer who mainly uses Python. I also have experience with Node.js and Spring.  
 
-To providing stable services, I am always studying software infrastructure and backend development.
+To providing stable services, I am always studying CS, OS, backend development and software infrastructure.
 
 
 ---------
