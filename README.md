@@ -8,7 +8,7 @@ To providing stable services, I am always studying CS, OS, backend development a
 
 [![gyudoza's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=jujumilk3&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujumilk3&layout=compact&theme=github_dark&exclude_repo=korean_movie_lipsum,lottoisruthless)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujumilk3&layout=compact&theme=github_dark&exclude_repo=korean-movie-lipsum,lottoisruthless)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 	
