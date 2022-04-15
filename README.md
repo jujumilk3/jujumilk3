@@ -2,6 +2,11 @@
 Hello, I'm a backend programmer who mainly uses Python. I also have experience with Node.js and Spring.  
 To providing stable services, I am always studying CS, OS, backend development and software infrastructure.
 
+I have experience working as a quant, so I have an understanding of stocks, derivatives, and cryptocurrency markets.  
+So I personally create monitoring systems and automatic investment programs to actively invest in the market.
+
+But my biggest concern is programming, so I'm focusing on this.  
+To become a good programmer, I always learn, study, record, and make things.
 
 ---------
 
