@@ -9,7 +9,7 @@ Also I'm interested in technology trends so I study functional languages these d
 
 [![gyudoza's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&show_icons=true&username=jujumilk3&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujumilk3&layout=compact&theme=github_dark&exclude_repo=korean-movie-lipsum,lottoisruthless,kafka-study,learn-elixir)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujumilk3&layout=compact&theme=github_dark&langs_count=8&hide=html&exclude_repo=korean-movie-lipsum,lottoisruthless,kafka-study,learn-elixir)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 	
