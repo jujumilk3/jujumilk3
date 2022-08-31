@@ -1,9 +1,8 @@
 ### Backend Engineer 
-Hello, I'm a backend programmer who mainly uses Python. I also have experience with Node.js and Spring.  
-To providing stable services, I am always studying CS, OS, backend development and software infrastructure.  
-
-Also I'm interested in technology trends so I study functional languages these days.  
-[To become a good programmer](https://github.com/jujumilk3/to-become-a-better-programmer), I always learn, study, record, and make things.
+Hi, I'm a backend programmer who mainly uses Python.   
+  
+To provide stable services and [to become a good programmer](https://github.com/jujumilk3/to-become-a-better-programmer),  
+I always study CS, OS, backend development, and software infrastructure.
 
 ---------
 
