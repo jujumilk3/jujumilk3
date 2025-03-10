@@ -12,7 +12,7 @@ Thank you.
 
 [![gyudoza's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&show_icons=true&username=jujumilk3&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujumilk3&layout=compact&theme=github_dark&langs_count=8&hide=html,css&exclude_repo=korean-movie-lipsum,lottoisruthless,kafka-study,learn-elixir,k8s-config-merger,svelte-study)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujumilk3&layout=compact&theme=github_dark&langs_count=8&hide=html,css,javascript&exclude_repo=korean-movie-lipsum,lottoisruthless,kafka-study,learn-elixir,k8s-config-merger,svelte-study)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 
