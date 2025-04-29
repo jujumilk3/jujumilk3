@@ -10,7 +10,7 @@ I also manage the hiring process, onboarding, and pace-setting for backend devel
 
   
 To provide stable services and [to become a good programmer](https://github.com/jujumilk3/to-become-a-better-programmer),  
-I always study CS, OS, backend development, and software infrastructure.  
+I always study CS, OS, backend development, and software infrastructure (and also humanities and science fields).  
 
 And I also like to write on various topics. You can read that posts by visiting my blog.  
 
