@@ -1,5 +1,13 @@
 ### Backend Engineer 
-Hi, I'm a backend programmer who mainly uses Python.   
+
+Hi, I'm a Python-focused backend engineer with hands-on experience in  
+AI services, web based backend engineering, and quant trading systems.  
+  
+I believe a BE developer's first clients are manager, designer and fellow developers.  
+For bottleneck-free project progress, I always communicate proactively, verify, monitor, and respond quickly. 
+I've been responsible for developing monitoring tools for fellow developers, productivity enhancement tools, and building easy-to-use CI/CD systems. 
+I also manage the hiring process, onboarding, and pace-setting for backend developers joining the team, contributing to creating an organically functioning team.  
+
   
 To provide stable services and [to become a good programmer](https://github.com/jujumilk3/to-become-a-better-programmer),  
 I always study CS, OS, backend development, and software infrastructure.  
