@@ -3,18 +3,18 @@
 Hi, I'm a Python-focused backend engineer with hands-on experience in  
 AI services, web based backend engineering, and quant trading systems.  
   
-I believe a BE developer's first clients are manager, designer and fellow developers.  
+I believe a BE developer's first clients are managers, designers and fellow developers.  
 For bottleneck-free project progress, I always communicate proactively, verify, monitor, and respond quickly. 
 I've been responsible for developing monitoring tools for fellow developers, productivity enhancement tools, and building easy-to-use CI/CD systems. 
-I also manage the hiring process, onboarding, and pace-setting for backend developers joining the team, contributing to creating an organically functioning team.  
-
+I contribute to creating an organically functioning team by managing the recruitment process, onboarding, and serving as a pacesetter for all backend developers joining the team.
   
 To provide stable services and [to become a good programmer](https://github.com/jujumilk3/to-become-a-better-programmer),  
 I always study CS, OS, backend development, and software infrastructure (and also humanities and science fields).  
 
-And I also like to write on various topics. You can read that posts by visiting my blog.  
-
-Thank you.
+Additionally, I like to write on various topics. You can read those posts by visiting my blog.  
+<br/>
+<br/>
+Thank you, and if you have any questions or proposals, please email me.
 
 ---------
 
@@ -26,6 +26,6 @@ Thank you.
 
 <a href="https://www.linkedin.com/in/gyudoza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 
-![](https://komarev.com/ghpvc/?username=jujumilk3&color=blue&base=11000)
+![](https://komarev.com/ghpvc/?username=jujumilk3&color=blue)
 	
 </div>
