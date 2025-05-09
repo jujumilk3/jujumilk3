@@ -3,13 +3,11 @@
 Hi, I'm a Python-focused backend engineer with hands-on experience in  
 AI services, web based backend engineering, and quant trading systems.  
   
-I believe a BE developer's first clients are managers, designers and fellow developers.  
 To ensure projects progress without bottlenecks, I always communicate proactively, verify, monitor, and respond quickly.
 Following this approach, I've developed various tools including monitoring systems for fellow developers, productivity enhancement solutions, and easy-to-use CI/CD system.
 I contribute to creating an organically functioning team by managing the recruitment process, onboarding, and serving as a pacesetter for all backend developers joining the team.
   
-To provide stable services and [to become a good programmer](https://github.com/jujumilk3/to-become-a-better-programmer),  
-I always study CS, OS, backend development, and software infrastructure (and also humanities and science fields).  
+To provide stable services and [to become a good programmer](https://github.com/jujumilk3/to-become-a-better-programmer), I always study CS, OS, backend development, and software infrastructure (and also humanities and science fields). And sometimes I work 100hr/week.  
 
 Additionally, I like to write on various topics. You can read those posts by visiting my blog.  
 <br/>
