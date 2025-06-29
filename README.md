@@ -27,3 +27,11 @@ Thank you, and if you have any questions or proposals, please email me.
 ![](https://komarev.com/ghpvc/?username=jujumilk3&color=blue)
 	
 </div>
+
+
+---------
+
+### Toy Projects
+
+- [💰 Half Billion Dollar Question](https://hbdq.ddgr3.com/) - If you had $500,000,000, what would you want to do?
+- [K8S CONFIG MERGER](https://jujumilk3.github.io/k8s-config-merger/) - Web browser based k8s config merger. (It doesn't save or send anything)
