@@ -34,4 +34,6 @@ Thank you, and if you have any questions or proposals, please email me.
 ### Toy Projects
 
 - [💰 Half Billion Dollar Question](https://hbdq.ddgr3.com/) - If you had $500,000,000, what would you want to do?
+- [Text Emoji Generator](https://jujumilk3.github.io/text-emoji/) - Create custom text-based emojis for Slack, Discord, and more in seconds
 - [K8S CONFIG MERGER](https://jujumilk3.github.io/k8s-config-merger/) - Web browser based k8s config merger. (It doesn't save or send anything)
+- [밝은 네이버 사전 (Bright Naver Dictionary)] - Chrome extension that overrides the browser theme and switches Naver Dictionary to light theme.
