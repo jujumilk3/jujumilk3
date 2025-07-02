@@ -31,12 +31,12 @@ Thank you, and if you have any questions or proposals, please email me.
 
 ---------
 
-## Projects
+## Personal Projects
 
 - [📎 Sharrism](https://github.com/Sharrism) - Message-style memo app with automatic URL tagging and organization features.
 - [🌱 Epistorium](https://devpost.com/software/epistorium) - Human history through graphs. Exploring connections and influence.
 
-### Toy Projects
+### Smaller things
 
 - [💰 Half Billion Dollar Question](https://hbdq.ddgr3.com/) - If you had $500,000,000, what would you want to do?
 - [Text Emoji Generator](https://jujumilk3.github.io/text-emoji/) - Create custom text-based emojis for Slack, Discord, and more in seconds
