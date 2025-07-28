@@ -34,7 +34,7 @@ Thank you, and if you have any questions or proposals, please email me.
 ### Personal Projects
 
 - [📎 Sharrism](https://github.com/Sharrism) - Message-style memo app with automatic URL tagging and organization features.
-- [🌱 Epistorium](https://devpost.com/software/epistorium) - Human history through graphs. Exploring connections and influence.
+- [🌱 Epistorium](https://epistorium.com/) - Human history through graphs. Exploring connections and influence.
 
 ### Smaller things
 
