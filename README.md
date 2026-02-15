@@ -33,6 +33,7 @@ Thank you, and if you have any questions or proposals, please email me.
 
 ### Smaller things
 
+- [🧠 Static RAG Chat](https://jujumilk3.github.io/static-rag-chat/) - Shareable static AI chat that bundles RAG context in a URL hash and runs fully in the browser with your own API key (no backend needed).
 - [💰 Half Billion Dollar Question](https://hbdq.ddgr3.com/) - If you had $500,000,000, what would you want to do?
 - [🎰 Slot Logo](https://slg.ddgr3.com/) - Making a logo using 3 words.
 - [Text Emoji Generator](https://jujumilk3.github.io/text-emoji/) - Create custom text-based emojis for Slack, Discord, and more in seconds.
