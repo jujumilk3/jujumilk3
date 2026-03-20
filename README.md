@@ -1,11 +1,10 @@
 ### Backend Engineer 
 
-Hi, I'm a Python-focused backend engineer with hands-on experience in  
-AI services, web based backend engineering, and quant trading systems.  
+Hi, I'm a Python-focused backend engineer with hands-on experience in AI services, web based backend engineering, and quant trading systems.  
   
 To ensure projects progress without bottlenecks, I always communicate proactively, verify, monitor, and respond quickly.
-Following this approach, I've developed various tools including monitoring systems for fellow developers, productivity enhancement solutions, and easy-to-use CI/CD system.
-I contribute to creating an organically functioning team by managing the recruitment process, onboarding, and serving as a pacesetter for all backend developers joining the team.
+Following this approach, I've developed various tools including monitoring systems for fellow developers, productivity enhancement solutions, and easy-to-use CI/CD system.  
+I contribute to creating an organically functioning team by managing the recruitment process and serving as the go-to person for onboarding all backend developers joining the team.
   
 To provide stable services and [to become a good programmer](https://github.com/jujumilk3/to-become-a-better-programmer), I always study CS, OS, backend development, and software infrastructure (and also humanities and science fields). And sometimes I work 100hr/week.  
 
@@ -17,7 +16,7 @@ Thank you, and if you have any questions or proposals, please email me.
 ---------
 <div align=center>
 
-<a href="https://www.linkedin.com/in/gyudoza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+<a href="https://www.linkedin.com/in/gyudoza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ![](https://komarev.com/ghpvc/?username=jujumilk3&color=blue)
 	
@@ -30,6 +29,7 @@ Thank you, and if you have any questions or proposals, please email me.
 
 - [📎 Sharrism](https://sharrism.com/) - Message-style memo app with automatic URL tagging and organization features.
 - [🌱 Epistorium](https://epistorium.com/) - Human history through graphs. Exploring connections and influence.
+- [💀 Comicode](https://github.com/tapesymbolstate/comicode) - Failed attempt at a comic markup language powered by the Ralph loop.
 
 ### Smaller things
 
