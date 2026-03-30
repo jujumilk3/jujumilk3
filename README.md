@@ -30,6 +30,9 @@ Thank you, and if you have any questions or proposals, please email me.
 - [📎 Sharrism](https://sharrism.com/) - Message-style memo app with automatic URL tagging and organization features.
 - [🌱 Epistorium](https://epistorium.com/) - Human history through graphs. Exploring connections and influence.
 - [💀 Comicode](https://github.com/tapesymbolstate/comicode) - Failed attempt at a comic markup language powered by the Ralph loop.
+- [🔁 Looprinter](https://github.com/tapesymbolstate/looprinter) - Loop template for building iterative agent harnesses. Copy loop.sh, edit the prompts, run it.
+	- [🔬 Decon Loop](https://github.com/tapesymbolstate/decon-loop) - AI-powered binary reverse engineering agent. Identifies composition, deobfuscates, and rewires binaries to execution level — including Claude Code's obfuscated binary.
+	- [🪟 Window Dity](https://github.com/jujumilk3/window-dity) - macOS window management app built entirely by an AI agent loop. Zero manual code — 5 iterations of looprinter produced the whole thing. (Inspired by [Window Tidy](https://lightpillar.com/window-tidy.html))
 
 ### Smaller things
 
